@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Divesh K J 👋
 
-<!--
-**divesh-kj/divesh-kj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year B.E. Mechatronics Engineering Student at Chennai Institute of Technology.
 
-Here are some ideas to get you started:
+🤖 Aspiring Robotics Engineer with a keen interest in robotics, automation, and intelligent machines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Python Programming
+- C Programming
+- Core Engineering Fundamentals
+
+### 🔭 Areas of Interest
+- Robotics and Automation
+- Embedded Systems
+- Mechatronics Engineering
+
+### 🎯 My Goal
+To build a strong foundation in software, electronics, mechanical systems, and control engineering, and gradually apply these skills to real-world robotics projects.
+
+
